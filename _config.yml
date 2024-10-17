@@ -107,7 +107,7 @@ theme: butterfly
 deploy:
   type: git
   repo: https://github.com/KuKuDeYang/kukudeyang.github.io.git
-  branch: master
+  branch: hexo
 aplayer:
   meting: true
   asset_inject: false
