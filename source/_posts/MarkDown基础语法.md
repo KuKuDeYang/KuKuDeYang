@@ -1,6 +1,6 @@
 ---
 title: MarkDown基础语法
-tags: [MarkDown,字典]
+tags: [MarkDown]
 copyright: true
 typora-root-url: MarkDown基础语法
 date: 2023-02-12 15:31:49

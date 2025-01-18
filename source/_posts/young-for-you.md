@@ -1,6 +1,6 @@
 ---
 title: young for you
-tags: [young for you]
+tags: []
 copyright: true
 typora-root-url: young for you
 date: 2023-02-16

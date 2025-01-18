@@ -1,6 +1,6 @@
 ---
 title: MySQL语法
-tags: [MySQL,字典]
+tags: [MySQL]
 copyright: false
 typora-root-url: MySQL语法
 date: 2023-02-14 10:12:43
